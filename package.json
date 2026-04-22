@@ -21,6 +21,10 @@
    ],
    "author": "Liiift Studio",
    "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Liiift-Studio/sanity-sales-portal.git"
+   },
    "devDependencies": {
       "@types/react": "^18.2.0",
       "@types/react-dom": "^18.2.0",
